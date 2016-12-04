@@ -6,6 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{4182e778-f6c2-4ba4-bfc7-19db54890e18}</ProjectGuid>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <OutputType>Exe</OutputType>
     <RootNamespace>Expecto.Tests</RootNamespace>
     <AssemblyName>Expecto.Tests</AssemblyName>
